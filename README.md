@@ -1,16 +1,8 @@
 # CarGuesser_mobile-release
 mobile version of carguesser .only for android.A hypercar and supersportcar guessing game.Guess the car by its engine price country year and horsepower.Features Normal ,Hint;Expert,JDM mode,Daily mode.
 only for android
-Copyright (c) 2026 dolphin432. All Rights Reserved.
-
-No part of this software may be copied, modified, distributed, 
-or used commercially without explicit written permission from the author.
-
-You may download and play this game for personal use only.Copyright (c) 2026 dolphin432. All Rights Reserved.
-
-No part of this software may be copied, modified, distributed, 
-or used commercially without explicit written permission from the author.
-
-You may download and play this game for personal use only.
-Any unauthorized use, reproduction, or distribution of this 
-software will be subject to legal action.
+​This project is not open-source. All rights reserved.
+The source code, assets, and branding are the exclusive property of dolphin432.
+​You may download and play the game for personal use.
+​You may not copy, modify, or redistribute the code or assets without express written permission.
+​For inquiries, please contact me via GitHub
